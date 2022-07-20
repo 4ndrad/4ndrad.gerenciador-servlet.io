@@ -1,4 +1,2 @@
-# http://4ndrad.gerenciador-servlet.io
-
-## gerenciador-servlet
+# gerenciador-servlet
 pagina feita com servlet para teste e aprendizado
